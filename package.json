@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-socketio-chatter-app",
+  "version": "1.0.0",
+  "description": "NodeJS SocketIO Chatter App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminMShahnani/NodeJS-SocketIO-Chatter-App.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "SocketIO",
+    "Express",
+    "Chat",
+    "APP"
+  ],
+  "author": "Amin Shahnani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AminMShahnani/NodeJS-SocketIO-Chatter-App/issues"
+  },
+  "homepage": "https://github.com/AminMShahnani/NodeJS-SocketIO-Chatter-App#readme"
+}
